@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AAD47D92-AB57-40A7-8F65-8774F42A1A5C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppBlade</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40710573-9832-4C44-8877-CB3CDF90CCDC</key>
+		<string>ssh://github.com/AppBlade/SDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/Framework/AppBlade.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40710573-9832-4C44-8877-CB3CDF90CCDC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/AppBlade/SDK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40710573-9832-4C44-8877-CB3CDF90CCDC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40710573-9832-4C44-8877-CB3CDF90CCDC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
